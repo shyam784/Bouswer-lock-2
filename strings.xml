@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Website Detox Lock</string>
+    <string name="title_app">Website Lockout</string>
+    <string name="desc_app">Enter specific website(s) below. When that website is opened in any browser, the phone will immediately lock down.</string>
+    <string name="accessibility_description">Used to detect when target blocked websites are visited in mobile browsers.</string>
+    <string name="btn_grant_admin">1. Enable Device Admin (Lock Phone)</string>
+    <string name="btn_grant_accessibility">2. Enable Accessibility Service</string>
+    <string name="btn_grant_overlay">3. Enable Overlay Permission</string>
+    <string name="btn_save_and_start">Activate Website Monitor</string>
+</resources>
